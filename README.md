@@ -1,4 +1,2 @@
-# React JS Landing Page Template
+# Elderly-Care
 
-## Command
-npm start
